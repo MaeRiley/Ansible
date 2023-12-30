@@ -1,4 +1,2 @@
 # Ansible
 Ansible Playbooks
-
-Change.
